@@ -1,0 +1,12 @@
+/Users/michaellee/repos/MethodsExer/MethodsExer/bin/Debug/netcoreapp3.1/MethodsExer.deps.json
+/Users/michaellee/repos/MethodsExer/MethodsExer/bin/Debug/netcoreapp3.1/MethodsExer.runtimeconfig.json
+/Users/michaellee/repos/MethodsExer/MethodsExer/bin/Debug/netcoreapp3.1/MethodsExer.runtimeconfig.dev.json
+/Users/michaellee/repos/MethodsExer/MethodsExer/bin/Debug/netcoreapp3.1/MethodsExer.dll
+/Users/michaellee/repos/MethodsExer/MethodsExer/bin/Debug/netcoreapp3.1/MethodsExer.pdb
+/Users/michaellee/repos/MethodsExer/MethodsExer/obj/Debug/netcoreapp3.1/MethodsExer.csprojAssemblyReference.cache
+/Users/michaellee/repos/MethodsExer/MethodsExer/obj/Debug/netcoreapp3.1/MethodsExer.AssemblyInfoInputs.cache
+/Users/michaellee/repos/MethodsExer/MethodsExer/obj/Debug/netcoreapp3.1/MethodsExer.AssemblyInfo.cs
+/Users/michaellee/repos/MethodsExer/MethodsExer/obj/Debug/netcoreapp3.1/MethodsExer.csproj.CoreCompileInputs.cache
+/Users/michaellee/repos/MethodsExer/MethodsExer/obj/Debug/netcoreapp3.1/MethodsExer.dll
+/Users/michaellee/repos/MethodsExer/MethodsExer/obj/Debug/netcoreapp3.1/MethodsExer.pdb
+/Users/michaellee/repos/MethodsExer/MethodsExer/obj/Debug/netcoreapp3.1/MethodsExer.genruntimeconfig.cache
